@@ -26,11 +26,11 @@
 
 
 4. Git의 3가지 공간에는 Working Directory, Staging Area, Commits이 있다. (맞으면 O, 틀리면 X)
-   - 답 : 
-   - 이유 :
+   - 답 : X
+   - 이유 : commit을 하고 push를 하면 repository로 올라간다.
 
 
 
 5. Commit ID는 중복 가능하다. (맞으면 O, 틀리면 X)
-   - 답 :
+   - 답 : 
    - 이유 :
